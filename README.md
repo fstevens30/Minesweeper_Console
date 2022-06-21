@@ -6,24 +6,28 @@
 
 **E.G**
 
-Input - 
-[
-[0,1,0,0]
-[0,0,1,0]
-[0,1,0,1]
-[1,1,0,0]
-]
+Input -   
+[  
+[0,1,0,0]  
+[0,0,1,0]  
+[0,1,0,1]  
+[1,1,0,0]  
+]  
+
 (0 represents an empty space, 1 represents a bomb)
 
-Output - 
-[
-[1,x,2,1]
-[2,3,x,2]
-[3,x,4,x]
-[x,x,3,1]
-]
+Output -   
+[  
+[1,x,2,1]  
+[2,3,x,2]  
+[3,x,4,x]  
+[x,x,3,1]  
+]  
+
 (x represents a mine, digits represent the number of adjacent mines)
 
 - The task also requires a Design.MD document explaining the code.
+
+**Created by Flynn Stevens, NMIT Student, 2022**
 
 
